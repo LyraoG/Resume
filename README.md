@@ -8,6 +8,7 @@
 <h2>👨‍💻Cerficates:</h2>
 <img src= "CompTIA.jpg" alt="Certificate" style="width: 100%; height: auto;">
 <img src="cpe-certificate-CISA-Exam-Passer" alt="Certificate" style="width: 100%; height: auto;">
+<img src="./CompTIA.jpg" />
 
 <h2>📺 Starting from Zero</h2>
 
