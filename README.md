@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lyra! <br/><a href="https://github.com/joshmadakor1">PCI DSS Consultant</a>, <a href="https://www.linkedin.com/in/lyra-grands/">Cybersecurity Professional</a </h1>
+<h1>Hi, I'm Lyra! <br/><a href="https://github.com/LyraoG/Resume">PCI DSS Consultant</a>, <a href="https://www.linkedin.com/in/lyra-grands/">Cybersecurity Professional</a </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
