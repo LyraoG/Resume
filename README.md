@@ -4,6 +4,8 @@
 
 - <b>Password Policy Assessment</b>
   - [Practicing Password Policy](https://www.loom.com/share/854f6124bfc6406c858c0f96debc61ff)
+  - 
+<h2>👨‍💻Cerficates:</h2>
 
 
 <h2>📺 Starting from Zero</h2>
