@@ -3,17 +3,17 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Password Policy Assessment</b>
-  - [Praciting Password Policy](https://www.loom.com/share/854f6124bfc6406c858c0f96debc61ff)
+  - [Practicing Password Policy](https://www.loom.com/share/854f6124bfc6406c858c0f96debc61ff)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Starting from Zero</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero](https://)
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Lyra Grands | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LyraGrands | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: www.linkedin.com/in/lyra-grands
 
 <!--
