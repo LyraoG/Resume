@@ -6,7 +6,8 @@
   - [Practicing Password Policy](https://www.loom.com/share/854f6124bfc6406c858c0f96debc61ff)
   - 
 <h2>👨‍💻Cerficates:</h2>
-
+<img src="documents/photos/CompTIA.jpg" alt="Certificate" style="width: 100%; height: auto;">
+<img src="documents/photos/CompTIA.jpg" alt="Certificate" style="width: 100%; height: auto;"><img src="cpe-certificate-CISA-Exam-Passer" alt="Certificate" style="width: 100%; height: auto;">
 
 <h2>📺 Starting from Zero</h2>
 
