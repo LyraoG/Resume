@@ -14,9 +14,8 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://)
 
-<h2> 🤳 Connect with me:</h2>
-
-
+- 
+<h2> 🤳 Connect with me</h2>
 [<img align="left" alt="LyraGrands | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [Lyra Grands | LinkedIn][linkedin]
